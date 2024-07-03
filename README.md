@@ -1,5 +1,5 @@
 # model-democracy
-Does discounting ‘hot’ climate models improve the predictive skill of climate model ensembles?
+To what extent does discounting ‘hot’ climate models improve the predictive skill of climate model ensembles?
 
 Abigail McDonnell, Adam Michael Bauer, Cristian Proistosescu
 
