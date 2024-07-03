@@ -3,6 +3,10 @@ Does discounting ‘hot’ climate models improve the predictive skill of climat
 
 Abigail McDonnell, Adam Michael Bauer, Cristian Proistosescu
 
+Processed data is available as netcdf files. 
+
+'cmip6_esgf_download_vars.txt' details information to download CMIP6 data from ESGF used in this experiment.
+
 To run on google colab:
 Please update the mount to import the pre-processed dataset. Also, make a shortcut to your Google drive with the shared folder. 
 This can be done by right clicking on the shared "Abigail_McDonnell" folder, selecting "Add shortcut to Drive", and clicking on the "MyDrive" option.
